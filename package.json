@@ -1,27 +1,26 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
-  "main": "main.js",
+  "name": "Google Inbox",
+  "version": "0.1.0",
+  "description": "Unofficial Google Inbox client",
+  "main": "electron.js",
   "scripts": {
-    "start": "electron main.js"
+    "start": "electron electron.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron/electron-quick-start.git"
+    "url": "https://github.com/owahab/ginbox"
   },
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial"
+    "Google",
+    "Inbox",
+    "Unofficial"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Omar Abdel-Wahab",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/electron/electron-quick-start/issues"
+    "url": "https://github.com/owahab/ginbox/issues"
   },
-  "homepage": "https://github.com/electron/electron-quick-start#readme",
+  "homepage": "https://github.com/owahab/ginbox#readme",
   "devDependencies": {
     "electron-prebuilt": "^0.37.0"
   }
