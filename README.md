@@ -1,1 +1,3 @@
-# Unofficial Google Inbox client
+# ginbox
+
+Unofficial Google Inbox client
